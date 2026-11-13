@@ -31,8 +31,6 @@ El alcance de la solución contempla:
 | [frontend_mobile](https://github.com/3CodersTeam/frontend_mobile) | Aplicación móvil orientada a los usuarios externos. | Flutter, Dart, Riverpod, Dio |
 | [intelligent-processing-service](https://github.com/3CodersTeam/intelligent-processing-service) | Servicio especializado para OCR, verificación facial y recomendaciones. | Python, FastAPI, PaddleOCR, OpenCV, InsightFace, Scikit-learn |
 | [infra](https://github.com/3CodersTeam/infra) | Infraestructura como código y flujos de despliegue en Google Cloud. | Terraform, Cloud Run, Cloud SQL, Cloud Storage, GitHub Actions |
-| [.github](https://github.com/3CodersTeam/.github) | Repositorio del perfil y presentación de la organización en GitHub. | Markdown |
-| [demo-repository](https://github.com/3CodersTeam/demo-repository) | Repositorio de demostración de funcionalidades de GitHub. | — |
 
 El acceso a los repositorios privados requiere permisos en la organización.
 
